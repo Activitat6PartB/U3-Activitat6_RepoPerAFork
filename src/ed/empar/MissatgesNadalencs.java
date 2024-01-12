@@ -156,7 +156,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila3PC2() {
-
+		System.out.println("Iván Ruiz Pedrós. Feliç Any Nou.");
 	}
 
 	private static void AlumneFila3PC3() {
