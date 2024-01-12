@@ -77,7 +77,6 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 #### AlumneFila3 PC2:
 
-Despues de clonar el fork he creado la rama "Ivan", dentro de la rama he modificado el método Fila3PC2 ya que supongo que será el mío, añadiendole un System.out con el mensaje que pedía, seguido de eso he hecho el add y el commit necesario, he hecho un "git push origin Ivan" y así he terminado el trabajo.
 
 #### AlumneFila3 PC3:
 
